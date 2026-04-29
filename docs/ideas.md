@@ -1,0 +1,6 @@
+- more gestures
+- two finger scroll
+- back/forward 
+- reload
+- microphone to mouth or maybe telephone hands to mouth for speech to text
+- 
